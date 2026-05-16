@@ -90,6 +90,7 @@ Platforms for building, deploying, and managing AI agents and multi-agent system
 | [apple-notes](https://clawhub.com) | Manage Apple Notes from the terminal |
 | [things-mac](https://clawhub.com) | Manage Things 3 todos from the terminal |
 | [obsidian](https://clawhub.com) | Work with Obsidian vaults |
+| [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | Search tweets, search replies, post tweets, export followers, manage media, monitor X/Twitter, and run giveaway draws with Xquik |
 | [sonoscli](https://clawhub.com) | Control Sonos speakers |
 | [eightctl](https://clawhub.com) | Control Eight Sleep pods |
 
