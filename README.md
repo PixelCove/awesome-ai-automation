@@ -127,6 +127,7 @@ Platforms for building, deploying, and managing AI agents and multi-agent system
 | [anthropics/courses](https://github.com/anthropics/courses) | Official Anthropic prompt engineering courses |
 | [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | Code recipes for Claude API |
 | [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | GitHub Actions integration |
+| [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) | Local-first relay for sharing restricted Claude Code and Codex automations over a trusted network while credentials and working files remain local |
 | [Paperclip](https://github.com/paperclipai/paperclip) | Multi-agent company orchestration (works with Claude Code) |
 
 ---
