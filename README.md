@@ -109,6 +109,7 @@ Platforms for building, deploying, and managing AI agents and multi-agent system
 ### MCP Servers (Claude Code integrations)
 | Server | Description |
 |--------|-------------|
+| [Agent QA MCP](https://github.com/vostride/agent-qa) | Source-available MCP tools to author and run natural-language web, Android and iOS tests |
 | [Figma MCP](https://github.com/anthropics/mcp-figma) | Read Figma files directly in Claude |
 | [GitHub MCP](https://github.com/github/github-mcp-server) | GitHub API access via MCP |
 | [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | Browser automation via MCP |
